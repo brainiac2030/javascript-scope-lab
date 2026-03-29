@@ -1,6 +1,5 @@
-// Write your solution in this file!
 const burgers = ['Hamburger', 'Cheeseburger'];
-var featuredDrink = 'Strawberry Milkshake';
+let featuredDrink = 'Strawberry Milkshake';
 
 function addBurger() {
     var newBurger = 'Flatburger';
